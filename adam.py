@@ -1,1 +1,3 @@
 print("Adam")
+
+print("\nand")
